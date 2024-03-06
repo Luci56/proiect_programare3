@@ -1,0 +1,18 @@
+Afisarea tuturor produselor din stoc
+
+
+Afisarea produselor cu cantitate scazuta
+
+
+Afisare Produse dupa actualizare de stoc
+
+
+Afiseaza produsele dupa cautare nume
+
+
+Afiseaza produsele dupa cautare categorie
+
+
+Afisarea produselor dupa stergere de produs
+
+
